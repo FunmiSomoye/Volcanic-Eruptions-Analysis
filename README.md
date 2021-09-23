@@ -28,15 +28,11 @@ Also, can you enrich the data from other sources than the ones specified in the 
 7. The number of active volcanoes is lower today, than it was over 100 years ago.
 8. There is very little correlation between the volcanic eruptions and temperature rise
 
-
 ### Research references used to support and inform analysis
 1. https://volcano.si.edu/faq/index.cfm?question=highestvolcano
 2. http://ete.cet.edu/gcc/?/volcanoes_explosivity/
 3. https://volcanoes.usgs.gov/vsc/glossary/vei.html#:~:text=Volcanic%20Explosivity%20Index%20(VEI)%20is,to%20determine%20the%20explosivity%20value.
 4. https://www.britannica.com/science/volcano/Volcanoes-related-to-plate-boundaries
-
-
-
 
 ## License
 The MIT License - Copyright (c) 2021 - Oluwafunmilayo Somoye
