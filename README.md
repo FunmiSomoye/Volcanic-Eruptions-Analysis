@@ -1,4 +1,4 @@
-# Volcanic-Eruptions-Analysis
+# Volcanic-Activity-EDA
 <div><img src="https://live.staticflickr.com/5626/22168833761_a36d88de4b_b.jpg" width=500 /></div>
 
 ## Sprint 1: Data Wrangling and Storytelling
